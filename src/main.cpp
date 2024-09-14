@@ -1,7 +1,7 @@
 #include <iostream>
 
 #include "FBFunctions.h"
-#include "ILI9488Functions.h"
+#include "ILI9488.h"
 
 
 
